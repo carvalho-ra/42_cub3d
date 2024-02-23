@@ -14,4 +14,4 @@ Run binary with a valid map: ```./cub3d maps/map01.cub```
 
 ### 📋 Results
 
-![cub3d_img.png](cub3d_img.png)
+![cub3d.png](cub3d.png)
