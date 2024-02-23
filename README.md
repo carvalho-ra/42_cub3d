@@ -6,7 +6,7 @@ This project aims to create a graphic engine (ray casting) using a minimal graph
 
 ### 🛠️ Usage
 
-Compile the project using the provided Makefile: make
+Compile the project using the provided Makefile: ```make```
 
 Run binary with a valid map: ```./cub3d maps/map01.cub```
 
