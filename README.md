@@ -4,6 +4,10 @@
 
 This project aims to create a graphic engine (ray casting) using a minimal graphic library.  
 
+Authors:  
+[bruno](https://github.com/bspinheiro)  
+[rodrigo](https://github.com/carvalho-ra)  
+
 ### 🛠️ Usage
 
 Compile the project using the provided Makefile: ```make```
